@@ -1,0 +1,25 @@
+{
+  "name": "edgespark",
+  "displayName": "EdgeSpark",
+  "version": "0.0.1",
+  "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage.",
+  "author": {
+    "name": "EdgeSpark",
+    "email": "dev@edgespark.dev"
+  },
+  "homepage": "https://edgespark.dev",
+  "repository": "https://github.com/edgesparkhq/cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "edgespark",
+    "fullstack",
+    "backend",
+    "database",
+    "auth",
+    "storage",
+    "hono",
+    "drizzle"
+  ],
+  "category": "developer-tools",
+  "skills": "./skills/"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "edgespark-cursor-plugins",
+  "owner": {
+    "name": "EdgeSpark",
+    "email": "dev@edgespark.dev"
+  },
+  "metadata": {
+    "description": "Official EdgeSpark plugins for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "edgespark",
+      "source": "edgespark",
+      "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage."
+    }
+  ]
+}
