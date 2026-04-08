@@ -5,7 +5,8 @@
     "email": "dev@edgespark.dev"
   },
   "metadata": {
-    "description": "Official EdgeSpark plugins for Cursor"
+    "description": "Official EdgeSpark plugins for Cursor",
+    "pluginRoot": "plugins"
   },
   "plugins": [
     {

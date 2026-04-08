@@ -21,5 +21,12 @@
     "drizzle"
   ],
   "category": "developer-tools",
+  "tags": [
+    "fullstack",
+    "deployment",
+    "backend",
+    "mcp"
+  ],
+  "logo": "assets/avatar.png",
   "skills": "./skills/"
 }
