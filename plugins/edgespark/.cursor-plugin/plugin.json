@@ -1,7 +1,7 @@
 {
   "name": "edgespark",
   "displayName": "EdgeSpark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage.",
   "author": {
     "name": "EdgeSpark",
