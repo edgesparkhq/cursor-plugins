@@ -1,5 +1,6 @@
 {
   "name": "edgespark-cursor-plugins",
+  "version": "0.0.2",
   "owner": {
     "name": "EdgeSpark",
     "email": "dev@edgespark.dev"
